@@ -1,0 +1,14 @@
+{
+  "name": "the-super-tiny-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.29.1"
+  }
+}
