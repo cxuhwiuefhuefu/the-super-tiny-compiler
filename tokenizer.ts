@@ -1,10 +1,11 @@
+// 词法分析 转化为 token
 export enum TokenTypes {
   Paren,
   Name,
   Number,
 }
 
-interface Token {
+export interface Token {
   type: TokenTypes
   value: string
 }
